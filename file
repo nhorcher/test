@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+	<title>TEST PAGE</title>
+	<body>
+		<h1>This is me testing my html skills</h1>
+		<p style="color:green; font-size:150%;">Nick's 1st Webpage</p>
+	</body>
+</html>
+
