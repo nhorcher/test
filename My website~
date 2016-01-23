@@ -7,7 +7,7 @@
     </head>
     <body>
         <ul>
-            <li><a href="My/ website.html">Home</a></li>
+            <li><a href="My/ website">Home</a></li>
             <li><a href="#">News</a></li>
             <li><a href="#">Contact</a></li>
             <li><a href="#">About</a></li>

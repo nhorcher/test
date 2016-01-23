@@ -1,0 +1,27 @@
+* {
+  font-family: helvetica;
+}
+ul {
+  margin-top: 20px;
+  margin-right: 100px;
+  float: right;
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  border-right: 1px solid black;
+  padding-right: 5px;
+  display: inline;
+  width: 60px;
+}
+li a {
+  text-align: center;
+  color: #777;
+  padding: 8px;
+  transition: .3s;
+  text-decoration: none;
+}
+li a:hover {
+  transition: .3s;
+  color: #222;
+}
