@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <title>Nick's Personal Webpage</title>
+  <body>
+    <img src="/home/nick/Desktop/Profile photo.gif" width="300" height="300">
+    <div style="font-size:400%; text-align:center;"><b>Nick's Personal Webpage</b></div>
+    <p1>The purpose of this webpage is to demonstrate my web development skills and provide other information as to my current skills or prior accomplishments</p1>
+    <a href="">Resume</a>
+    <a href="">Contact</a>
+    <div> Status : <b>In Progress</b></div>
+
+  </body>
+</html>
