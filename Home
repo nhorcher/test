@@ -8,12 +8,12 @@
     </head>
     <body>
         <ul>
-            <li><a href="Home">Home</a></li>
-            <li><a href="News.html">News</a></li>
+            <li><a href="My/ website.html">Home</a></li>
+            <li><a href="#">News</a></li>
             <li><a href="Contact.html">Contact</a></li>
-            <li><a href="About.html">About</a></li>
+            <li><a href="#">About</a></li>
         </ul>
-
+		<div></div>
 	    <p1>The purpose of this webpage is to demonstrate my web development skills and provide other information as to my current skills or prior accomplishments</p1>
 	<div> Status : <b>In Progress</b></div>
     </body>

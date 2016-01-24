@@ -1,5 +1,5 @@
 * {
-  font-family: helvetica;
+  font-family: Arial;
 }
 ul {
   margin-top: 20px;
@@ -10,18 +10,19 @@ ul {
 }
 li {
   border-right: 1px solid black;
+  border-left: 1px solid black;
   padding-right: 5px;
   display: inline;
   width: 60px;
 }
 li a {
   text-align: center;
-  color: #777;
+  color: #666;
   padding: 8px;
   transition: .3s;
   text-decoration: none;
 }
 li a:hover {
   transition: .3s;
-  color: #222;
+  color: #000;
 }
